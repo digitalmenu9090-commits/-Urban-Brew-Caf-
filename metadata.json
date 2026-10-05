@@ -1,0 +1,6 @@
+{
+  "name": "Urban Brew Café | Premium Specialty Coffee & Kitchen Kathmandu",
+  "description": "Premium specialty café in Kathmandu, Nepal. Savor artisan coffees, gourmet sandwiches, handcrafted desserts, and a serene ambient escape.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
